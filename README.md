@@ -1,7 +1,7 @@
 ## 👋 Olá, meu nome é Pablo, tenho 17 anos e sou iniciante em Javascript, Faço parte da equipe do melhor serviço de hospedagem do brasil, a Square Cloud!
 
 <siv>
-    <a href="https://beacons.ai/rablonkk">
+    <a href="https://github.com/rablonkk/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rablonkk&show_icons=true&theme=dracula">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rablonkk&layout=compact&langs_count=7&theme=dracula">
 </div>

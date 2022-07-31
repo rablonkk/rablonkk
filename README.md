@@ -1,5 +1,3 @@
-## 👋 Hello!, my name is Pablo, I'm 17 years old, I'm currently taking a logistics course and I work at the state-owned CDD Limeira (National Post and Telegraph Company) I'm part of the Square Cloud team, a service that offers free hosting for Discord bots , I've been programming for 8 months now and I'm still a beginner in Javascript, HTML & CSS.
-
 <siv>
     <a href="https://github.com/rablonkk/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rablonkk&show_icons=true&theme=dracula">

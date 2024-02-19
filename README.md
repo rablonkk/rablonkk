@@ -15,7 +15,7 @@ my name is Pablo and i'm 19 years old, i've been a programmer for 2 years and ha
 - Adobe Lightroom
 - Alight Motion
 
-### system and services
+### systems and services
 - Windows (for personal use)
 - ZorinOS (for work environment
 - DisCloud (hosting service that i use for my applications)

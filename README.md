@@ -49,18 +49,7 @@ please find me on [LinkedIn](https://www.linkedin.com/in/pabloxz-silva/) for a m
 - DisCloud (hosting service that i use for my applications)
 
 ### projects
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/qyyYLq0.png"/>](https://prismbot.site/)
-
-**PrismBot Project** \
-[**PrismBot**](https://prismbot.site/) • founder and developer \
-description: `prismbot was also a music bot that i had a few months ago, but i ended up shutting it down for financial reasons` \
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/IKQ1zB6.png"/>](https://nyxrobot.site/)
-
-**Nyxro Project** \
-[**Nyxro**](https://nyxrobot.site/) • founder and developer \
-description: `the nyxro project is recent, and still under development, but it is a simple music bot for discord` \
-<br/>
+- Nyxro Project (the nyxro project is recent, and still under development, but it is a simple music bot for discord)
+- PrismBot (prismbot was also a music bot that i had a few months ago, but i ended up shutting it down for financial reasons)
 
 ![Shynozx's GitHub stats](https://github-readme-stats.vercel.app/api?username=shynozx&show_icons=true&theme=dracula)

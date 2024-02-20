@@ -32,7 +32,7 @@ please find me on [LinkedIn](https://www.linkedin.com/in/pabloxz-silva/) for a m
 ### languages ​​and frameworks
 - JavaScript
 - TypeScript
-- Rect Nativa
+- Rect Native
 - HTML and CSS
 - MongoDB Atlas
 
@@ -45,7 +45,7 @@ please find me on [LinkedIn](https://www.linkedin.com/in/pabloxz-silva/) for a m
 
 ### systems and services
 - Windows (for personal use)
-- ZorinOS (for work environment
+- ZorinOS (for work environment)
 - DisCloud (hosting service that i use for my applications)
 
 ### projects

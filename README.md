@@ -6,21 +6,21 @@ my name is Pablo and i'm 19 years old, i've been a programmer for 2 years and ha
 ### work experience
 in the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/eG0X3fz.png"/>](https://www.correios.com.br/)
+[<img align="left" height="94px" width="94px" alt="Correios" src="https://i.imgur.com/eG0X3fz.png"/>](https://www.correios.com.br/)
 
 **logistics assistant / administrative assistant** \
 [**Correios**](https://www.correios.com.br/) • young apprentice \
 skills: `supply chain`, `logistics management`, `route management`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://i.imgur.com/RxBXPDq.jpeg"/>](https://www.sxintegra.com.br/#/)
+[<img align="left" height="94px" width="94px" alt="SX Negócios" src="https://i.imgur.com/RxBXPDq.jpeg"/>](https://www.sxintegra.com.br/#/)
 
 **custom experience and business specialist** \
 [**SX Negocios**](https://www.sxintegra.com.br/#/) • part time \
 skills: `investment management`, `credit analysis`, `credit cards`, `telecommunications`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://i.imgur.com/Thg2Jm5.jpeg"/>](https://www.digaspi.com.br/)
+[<img align="left" height="94px" width="94px" alt="Di Gaspi" src="https://i.imgur.com/Thg2Jm5.jpeg"/>](https://www.digaspi.com.br/)
 
 **stockist** \
 [**Di Gaspi**](https://www.digaspi.com.br/) • full-time \
@@ -52,4 +52,4 @@ please find me on [LinkedIn](https://www.linkedin.com/in/pabloxz-silva/) for a m
 - Nyxro Project (the nyxro project is recent, and still under development, but it is a simple music bot for discord)
 - PrismBot (prismbot was also a music bot that i had a few months ago, but i ended up shutting it down for financial reasons)
 
-![Shynozx's GitHub stats](https://github-readme-stats.vercel.app/api?username=shynozx&show_icons=true&theme=dracula)
+![Shynozx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rablonkk&show_icons=true&theme=dracula)

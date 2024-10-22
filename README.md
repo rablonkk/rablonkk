@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 👋 Yo guys!
+## 👋 Hey guys!
 My name is Pablo and i'm 19 years old, i've been a programmer for 2 years and have experience with JavaScript, React, TypeScript, HTML and CSS. I'm also a video editor and designer.
 
 ### Work experience

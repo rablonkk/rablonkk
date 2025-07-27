@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 👋 Hey guys!
-My name is Pablo and i'm 19 years old, i've been a programmer for 2 years and have experience with JavaScript, React, TypeScript, HTML and CSS. I'm also a video editor and designer.
+My name is Pablo and i'm 20 years old, i've been a programmer for 2 years and have experience with JavaScript, React, TypeScript, HTML and CSS. I'm also a video editor and designer.
 
 ### Work experience
 In the overview below you will find my most recent work experience:
 
-[<img align="left" height="94px" width="94px" alt="Correios" src="https://i.imgur.com/eG0X3fz.png"/>](https://www.correios.com.br/)
+[<img align="left" height="94px" width="94px" alt="Correios" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDIyEcLeVCAEg0GH6FAqWCW2m8dsmuoSnr9Q&s"/>](https://www.correios.com.br/)
 
 **Logistics Assistant / Administrative Assistant** \
 [**Correios**](https://www.correios.com.br/) • Young apprentice \
@@ -20,7 +20,7 @@ Skills: `Supply chain`, `Logistics management`, `Route management`\
 Skills: `Investment management`, `Credit analysis`, `Credit cards`, `Telecommunications`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Di Gaspi" src="https://i.imgur.com/Thg2Jm5.jpeg"/>](https://www.digaspi.com.br/)
+[<img align="left" height="94px" width="94px" alt="Di Gaspi" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT90MWe5zQYdECtqF_PKQkuhWrJyuwUxt_LVw&s"/>](https://www.digaspi.com.br/)
 
 **Stockist** \
 [**Di Gaspi**](https://www.digaspi.com.br/) • Full-time \

@@ -13,10 +13,10 @@ In the overview below you will find my most recent work experience:
 Skills: `Supply chain`, `Logistics management`, `Route management`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SX Negócios" src="https://i.imgur.com/RxBXPDq.jpeg"/>](https://www.sxintegra.com.br/#/)
+[<img align="left" height="94px" width="94px" alt="SX Negócios" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT75VrIx_7Wymb4Pu4qBGOzjFzU3_gADeEh7Q&s"/>](https://www.sxintegra.com.br/#/)
 
 **Custom Experience and Business Specialist** \
-[**SX Negocios**](https://www.sxintegra.com.br/#/) • Part time \
+[**Pulse Client Experts**](https://www.sxintegra.com.br/#/) • Part time \
 Skills: `Investment management`, `Credit analysis`, `Credit cards`, `Telecommunications`\
 <br/>
 

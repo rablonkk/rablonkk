@@ -30,8 +30,11 @@ Skills: `Storage`, `Sending and receiving cargo`, `Order picking`, `Stock replen
 please find me on [LinkedIn](https://www.linkedin.com/in/pabloxz-silva/) for a more detailed description of my work experience, education and certification.
 
 ### Languages ​​and frameworks
+- VueJS
+- Vite
 - JavaScript
 - TypeScript
+- Python
 - Rect Native
 - HTML and CSS
 - MongoDB Atlas
@@ -46,10 +49,10 @@ please find me on [LinkedIn](https://www.linkedin.com/in/pabloxz-silva/) for a m
 ### Systems and services
 - Windows (for personal use)
 - ZorinOS (for work environment)
-- DisCloud (hosting service that i use for my applications)
+- DisCloud & SquareCloud (hosting services i use for my apps)
 
 ### Projects
-- Nyxro Project (the nyxro project is recent, and still under development, but it is a simple music bot for discord)
+- [Nyxro Project](https://nyxro.xyz) (the nyxro project is recent, and still under development, but it is a simple music bot for discord)
 - PrismBot (prismbot was also a music bot that i had a few months ago, but i ended up shutting it down for financial reasons)
 
 ![Shynozx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rablonkk&show_icons=true&theme=dracula)

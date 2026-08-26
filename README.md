@@ -1,67 +1,141 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" min-width="600px" max-width="320px" width="320px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer" min-width="320px" max-width="320px" width="320px" align="right">
 
-## 👋 Olá pessoal!
-O meu nome é Pablo Rafael, e tenho 21 anos de idade. Atualmente estou cursando Analise e Desenvolvimento de Sistemas, e tenho experiências em áreas como suporte técnico. Atuei na Lojas Riachuelo SA como Assistente de TI, e atualmente estou trabalhando como Analista de Suporte Técnico Jr, na empresa Mahle Metal Leve SA, em Limeira, SP. Possuo experiência em linguagens como JavaScript, TypeScript, Python e Java, e desenvolvi projetos como Nyxro e PrismBot, ambos para a rede social Discord. O projeto Nyxro, está disponível para acesso em [Nyxro](https://nyxro.xyz)
+# 👋 Olá, eu sou Pablo Rafael!
 
-### Experiências de trabalho
-Abaixo você irá conhecer as empresas que eu já trabalhei, e que atualmente trabalho:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas, na universidade Anhanguera.
 
-[<img align="left" height="94px" width="94px" alt="Mahle Metal Leve SA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hvm-Ei7z7tQPUcHyYIfVNLc6OqXcqOWrzPHpuQeRtw&s=10"/>](https://www.br.mahle.com/pt/)
+💻 Profissional de TI com experiência em suporte técnico, infraestrutura e desenvolvimento de aplicações web.
 
-**Analista de Suporte Técnico Jr** \
-[**Mahle Metal Leve SA**](https://www.br.mahle.com/pt/) • Temporário \
-Data: de **08/2026** até o **atual momento**.
+Atualmente atuo como Analista de Suporte Técnico Jr. e busco oportunidades para crescer nas áreas de Desenvolvimento de Software, Sistemas e Tecnologia.
+
+---
+
+## 🚀 Sobre mim
+
+Tenho experiência com suporte corporativo, atendimento a usuários, resolução de incidentes, manutenção de equipamentos e sistemas. Além da experiência profissional em TI, também desenvolvo projetos próprios focados em aplicações web e automação. Meu principal projeto é o **Nyxro**, um bot de músicas e administração de servidores para Discord, criado por mim.
+
+---
+
+## 🛠 Tecnologias
+
+### Front-end
+- Vue.js
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+### Back-end
+- Node.js
+- Express
+- Discord.js
+
+### Banco de Dados
+- MongoDB
+
+### Ferramentas
+- Git
+- GitHub
+- Visual Studio Code
+
+### Sistemas Operacionais
+- Windows
+- Linux
+
+---
+
+## 💼 Experiência Profissional
+
+[<img align="left" height="65px" width="65px" alt="Mahle Metal Leve SA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hvm-Ei7z7tQPUcHyYIfVNLc6OqXcqOWrzPHpuQeRtw&s=10"/>](https://www.br.mahle.com/pt/)
+
+[**Mahle Metal Leve SA**](https://www.br.mahle.com/pt/) • Temporário
 <br/>
-Habilidades: `Suporte técnico`, `Service Desk`, `TI`, `Infraestrutura de redes`, `Configuração de roteadores e servidores`, `Aberturas de chamados`, `Resolução de chamados em N1 e N2`, `Instalação de sistemas operacionais`, `Formatação de computadores`, `Manutenção de hardware` & `Instalação e formatação de softwares`\
+(**08/2026** até o **atual momento**)
+<br/>
+<br/>
+Habilidades:
+- Suporte técnico aos usuários da operação.
+- Diagnóstico e resolução de incidentes relacionados a hardware, software e rede.
+- Instalação, configuração e manutenção de computadores.
+- Formatação e preparação de equipamentos para usuários.
+- Configuração de sistemas operacionais e aplicativos corporativos.
+- Suporte a modems, roteadores e dispositivos de infraestrutura.
+- Execução de rotinas de backup em nuvem.
+- Apoio à manutenção da disponibilidade dos recursos de TI da empresa.
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Lojas Riachuelo SA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74yiz7HyvAJ7RqOUsShglkxwfRVxwzsJbiWBTL1C8bUar5SsFm0lLKU8&s=10"/>](https://www.riachuelo.com.br/)
-
+[<img align="left" height="65px" width="65px" alt="Lojas Riachuelo SA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74yiz7HyvAJ7RqOUsShglkxwfRVxwzsJbiWBTL1C8bUar5SsFm0lLKU8&s=10"/>](https://www.riachuelo.com.br/)
 **Assistente de TI** \
-[**Lojas Riachuelo SA**](https://www.riachuelo.com.br/) • Temporário \
-Data: de **12/2025** até o **06/2026**.
+[**Lojas Riachuelo SA**](https://www.riachuelo.com.br/) • Temporário
 <br/>
-Habilidades: `Service Desk`, `TI`, `Infraestrutura de redes`, `Auxílio de resolução de chamados`, `Formatação de computadores`, `Manutenção de hardware`, `Instalação e formatação de softwares` & `Instalação de sistemas operacionais`\
+(**12/2025** até o **06/2026**)
 <br/>
+<br/>
+Habilidades:
+- Suporte técnico em hardware e software.
+- Formatação, manutenção e atualização de computadores.
+- Instalação de sistemas operacionais e aplicativos.
+- Configuração de roteadores e dispositivos de rede.
+- Diagnóstico e resolução de problemas técnicos.
+- Apoio às atividades de infraestrutura de TI da unidade.
+- Atendimento aos usuários internos.
 
-[<img align="left" height="94px" width="94px" alt="Banco Santander" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h9vJV3ZaFy76vwi9XYFxxumf1EuA4J6myJNWfLTJKg&s=10">](https://santander.com.br)
+[<img align="left" height="65px" width="65px" alt="Banco Santander" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h9vJV3ZaFy76vwi9XYFxxumf1EuA4J6myJNWfLTJKg&s=10">](https://santander.com.br)
 
 **Especialista de CX e Negócios** \
-[**Banco Santander (Brasil) SA**](https://santander.com.br) • Part-time \
-Data: de **12/2023** até o **08/2025**.
+[**Banco Santander (Brasil) SA**](https://santander.com.br) • Part-time
 <br/>
-Habilidades: `Atendimento ao cliente`, `Vendas`, `Suporte ao cliente em serviços financeiros e digitais`, `Captura de capitais`, `Contratação de empréstimos pessoais e consignados`, `Abertura de chamados para segundo nível (N2)` & `Resolução de problemas`\
+(**12/2023** até o **08/2025**)
 <br/>
+<br/>
+Habilidades:
+- Atendimento exclusivo para para clientes do Banco Santander.
+- Resolução de problemas e análise de solicitações.
+- Registro e acompanhamento de protocolos.
+- Vendas de produtos financeiros (cartões, seguros, empréstimos e serviços bancários).
+- Suporte à clientes Santander (conta-corrente, cartões, empréstimos, consignado e internet banking/canais).
+- Forte atuação em comunicação, atendimento e resolução de demandas via chat e voz.
 
-Para mais informações, você pode verificar o meu Linkedin clicando [aqui](https://www.linkedin.com/in/silvxz/).
+---
 
-### Linguagens ​​e frameworks que tenho conhecimento:
-- VueJS
-- Vite
-- JavaScript
-- TypeScript
-- Python
-- Rect Native
-- HTML and CSS
-- MongoDB Atlas
+## 🌟 Projeto em Destaque
 
-### Softwares e IDE que utilizo:
-- Visual Studio Code
-- AnyDesk
-- Workspace ONE Intelligent Hub
-- IrfanView
-- Adobe After Effects
-- Adobe Photoshop
-- Adobe Lightroom
-- Alight Motion
+### Nyxro Project
 
-### Sistemas operacionais e serviços que utilizo:
-- Windows 11 Pro 25H2 (Para uso pessoal)
-- ZorinOS (Para trabalho e desenvolvimento)
-- [Discloud](https://discloud.com), [SquareCloud](https://squarecloud.app), [Vercel](https://vercel.app) (Serviços de hospedagem que eu utilizo para manter os meus projetos on-line)
+Um bot de música para Discord desenvolvido utilizando JavaScript, Discord.js e Lavalink.
 
-### Projetos
-- [Nyxro Project](https://nyxro.xyz) (É o projeto mais recente criado por mim, e ainda em desenvolvimento. É um simples bot de música e administração de servidores para Discord. Desenvolvido em JavaScript e Java, usando as bibliotecas DiscordJS, Kazagumo-client & ytdl-core)
-- PrismBot (Foi o primeiro projeto que criei voltado para Discord, que também era um bot de música. Desenvolvido em JavaScript, usando as bibliotecas DiscordJS, ffmpeg-static e opus)
+Recursos do projeto:
+- Reprodução de música
+- Integração com APIs (YouTube, Twitch, SoundCloud & Spotify)
+- Comandos personalizados
+- Sistema modular
+- Armazenamento dos dados da música em banco de dados (MongoDB e arquivos .json)
 
-![Shynozx's GitHub stats](https://github-readme-stats.vercel.app/api?username=rablonkk&show_icons=true&theme=dracula)
+🌐 Website:
+https://nyxro.xyz
+
+---
+
+## 📈 Atualmente estudando
+
+- TypeScript avançado
+- Arquitetura de aplicações
+- APIs REST
+- Bancos de dados relacionais
+- Desenvolvimento Full Stack
+
+---
+
+## 📫 Contato
+
+LinkedIn:
+https://www.linkedin.com/in/silvxz/ <br/>
+GitHub:
+https://github.com/rablonkk <br/>
+Website:
+https://nyxro.xyz <br/>
+
+---
+
+⭐ Sempre aberto a oportunidades, networking e novos desafios na área de tecnologia.

@@ -48,7 +48,8 @@ Tenho experiência com suporte corporativo, atendimento a usuários, resolução
 ## 💼 Experiência Profissional
 
 [<img align="left" height="65px" width="65px" alt="Mahle Metal Leve SA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hvm-Ei7z7tQPUcHyYIfVNLc6OqXcqOWrzPHpuQeRtw&s=10"/>](https://www.br.mahle.com/pt/)
-
+**Analista de Suporte Técnico Jr**
+<br/>
 [**Mahle Metal Leve SA**](https://www.br.mahle.com/pt/) • Temporário
 <br/>
 (**08/2026** até o **atual momento**)
@@ -66,7 +67,8 @@ Habilidades:
 <br/>
 
 [<img align="left" height="65px" width="65px" alt="Lojas Riachuelo SA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74yiz7HyvAJ7RqOUsShglkxwfRVxwzsJbiWBTL1C8bUar5SsFm0lLKU8&s=10"/>](https://www.riachuelo.com.br/)
-**Assistente de TI** \
+**Assistente de TI**
+<br/>
 [**Lojas Riachuelo SA**](https://www.riachuelo.com.br/) • Temporário
 <br/>
 (**12/2025** até o **06/2026**)
@@ -83,7 +85,8 @@ Habilidades:
 
 [<img align="left" height="65px" width="65px" alt="Banco Santander" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_h9vJV3ZaFy76vwi9XYFxxumf1EuA4J6myJNWfLTJKg&s=10">](https://santander.com.br)
 
-**Especialista de CX e Negócios** \
+**Especialista de CX e Negócios**
+<br/>
 [**Banco Santander (Brasil) SA**](https://santander.com.br) • Part-time
 <br/>
 (**12/2023** até o **08/2025**)

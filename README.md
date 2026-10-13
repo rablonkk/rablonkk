@@ -6,7 +6,7 @@
 
 💻 Profissional de TI com experiência em suporte técnico, infraestrutura e desenvolvimento de aplicações web.
 
-Atualmente atuo como Analista de Suporte Técnico Jr. e busco oportunidades para crescer nas áreas de Desenvolvimento de Software, Sistemas e Tecnologia.
+Atualmente atuo como Analista de Suporte Técnico, e busco oportunidades para crescer nas áreas de Desenvolvimento de Software, Sistemas e Tecnologia.
 
 ---
 

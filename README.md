@@ -47,12 +47,32 @@ Tenho experiência com suporte corporativo, atendimento a usuários, resolução
 
 ## 💼 Experiência Profissional
 
+[<img align="left" height="65px" width="65px" alt="Mahle Metal Leve SA" src="https://media.licdn.com/dms/image/v2/D4D0BAQErQkZRZZX2xg/company-logo_200_200/company-logo_200_200/0/1737142970683/inova_sade_so_paulo_spe_sa_logo?e=2147483647&v=beta&t=gBZ6yxA4b0p0Xbe8z_sHyLUZCwpGwpuaWSZXD8R8IUg"/>](https://www.inovasaudesa.com.br/)
+**Analista de Suporte Hospitalar Jr**
+<br/>
+[**Inova Saúde Sorocaba SPE SA**](https://www.br.mahle.com/pt/) • Tempo Integral (12x36)
+<br/>
+(**10/2026** até o **atual momento**)
+<br/>
+<br/>
+Habilidades:
+- Suporte técnico aos usuários e equipes assistenciais e administrativas do ambiente hospitalar.
+- Diagnóstico e resolução de incidentes relacionados a hardware, software, sistemas operacionais e conectividade de rede.
+- Instalação, configuração e manutenção de computadores, periféricos e equipamentos de TI.
+- Atendimento e acompanhamento de chamados técnicos, garantindo agilidade na resolução de incidentes.
+- Configuração e suporte a sistemas e aplicações utilizados na operação hospitalar.
+- Suporte à infraestrutura de TI, incluindo estações de trabalho, impressoras e dispositivos de rede.
+- Identificação, análise e escalonamento de incidentes técnicos para equipes responsáveis, quando necessário.
+- Apoio à manutenção da disponibilidade e continuidade dos recursos tecnológicos essenciais às operações do hospital.
+- Orientação aos usuários quanto à utilização adequada dos equipamentos e sistemas corporativos.
+<br/>
+
 [<img align="left" height="65px" width="65px" alt="Mahle Metal Leve SA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hvm-Ei7z7tQPUcHyYIfVNLc6OqXcqOWrzPHpuQeRtw&s=10"/>](https://www.br.mahle.com/pt/)
 **Analista de Suporte Técnico Jr**
 <br/>
 [**Mahle Metal Leve SA**](https://www.br.mahle.com/pt/) • Temporário
 <br/>
-(**08/2026** até o **atual momento**)
+(**07/2026** até o **09/2026**)
 <br/>
 <br/>
 Habilidades:

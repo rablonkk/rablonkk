@@ -50,7 +50,7 @@ Tenho experiência com suporte corporativo, atendimento a usuários, resolução
 [<img align="left" height="65px" width="65px" alt="Mahle Metal Leve SA" src="https://media.licdn.com/dms/image/v2/D4D0BAQErQkZRZZX2xg/company-logo_200_200/company-logo_200_200/0/1737142970683/inova_sade_so_paulo_spe_sa_logo?e=2147483647&v=beta&t=gBZ6yxA4b0p0Xbe8z_sHyLUZCwpGwpuaWSZXD8R8IUg"/>](https://www.inovasaudesa.com.br/)
 **Analista de Suporte Hospitalar Jr**
 <br/>
-[**Inova Saúde Sorocaba SPE SA**](https://www.br.mahle.com/pt/) • Tempo Integral (12x36)
+[**Inova Saúde Sorocaba SPE SA**](https://www.inovasaudesa.com.br) • Tempo Integral (12x36)
 <br/>
 (**10/2026** até o **atual momento**)
 <br/>
